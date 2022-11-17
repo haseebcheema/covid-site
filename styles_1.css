@@ -1,0 +1,57 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+/* css for page 1 */
+
+#div-1{
+    padding: 25px;
+    background-color: #E9ECEF;
+}
+
+.logo-img{
+    height: 80px;
+}
+
+.boy-img{
+    height: 250px;
+    position: relative;
+    top: -30px;
+    margin-left: 20px;
+}
+
+#div-1 button{
+    margin-top: -40px;
+}
+
+
+#div-2{
+    padding: 25px;
+}
+
+.info-container{
+    display: flex;
+    margin: 20px 20px 20px 0;
+}
+
+.info{
+    margin-left: 20px;
+    width: 60%;
+}
+
+.arrow {
+    border: solid #DDDDDE;;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+
+.icon-deal{
+    margin: auto;
+}

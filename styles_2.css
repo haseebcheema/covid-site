@@ -1,0 +1,56 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+/* css for page all pages except homepage */
+
+.header{
+    background-color: #E9ECEF;
+}
+
+.logo-image{
+    height: 80px;
+    padding-left: 10px;
+    position: relative;
+    top: 30px;
+}
+
+.header button{
+    margin-top: 27px;
+}
+
+.info{
+    padding: 50px;
+}
+
+.info-symptoms{
+    padding: 20px;
+    padding-top: 50px;
+}
+
+ol{
+    margin-top: 20px;
+}
+
+a{
+    text-decoration:none;
+}
+
+.info-preventions{
+    padding: 20px;
+    padding-top: 50px;
+}
+
+.info-container{
+    display: flex;
+    margin: 20px 20px 20px 0;
+}
+
+.info-container p{
+    margin-left: 25px;
+}
+
+.logo-img{
+    height: 80px;
+}
